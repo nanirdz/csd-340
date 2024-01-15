@@ -1,0 +1,32 @@
+body {
+	padding: 16px;}
+p	{
+	font-weight: 400;
+	height: 1.4em;}
+h1	{
+	font-weight: 700;
+	font-variant-caps: small-caps;
+	text-indent: center;}
+h2	{
+	font-weight: 500;
+	text-align: left;
+	padding-top: 15px;}
+address {
+   src: url(https://www.bellevue.edu);
+   font-weight: bold;
+   height: 1.25em;
+   color: #4F3674;
+   text-decoration: no underline;
+}
+a:link {
+  color: #FF0000;
+}
+a:visited {
+  color: #00FF00;
+}
+p.sentence {
+	font-style: italic;
+}
+p.intro	{
+	text-indent: 2em;
+}
